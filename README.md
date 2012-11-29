@@ -72,3 +72,4 @@ The example contained within in this repo should display something like:
        3 steps (3 passed)
        0m0.003s
 
+For more information, please refer to PS QA Cucumber / Gherkin  documentation off the wush.net wiki page.
