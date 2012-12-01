@@ -8,16 +8,16 @@ Installation
 ============
 
       # Install Ruby
-      $ curl -L https://get.rvm.io | bash -s stable --ruby
+      curl -L https://get.rvm.io | bash -s stable --ruby
       
       # Install Gherkin
-      $ gem install gherkin
+      gem install gherkin
       
       # Install Cucumber
-      $ gem install cucumber
+      gem install cucumber
        
       # Install Cucumber
-      $ gem install rspec
+      gem install rspec
 
 
 Naming Conventions
@@ -49,7 +49,7 @@ In the step_definitions directory place your appropriately named steps file in t
 
 To see if your tests work go to the directory above the features directory and run:
 
-      $ cucumber
+      cucumber
 
 The example contained within in this repo should display something like:
 
